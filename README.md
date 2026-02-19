@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Abdullah Ghaznavi
 
-<!--
-**agkhawja/agkhawja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Multi-Stack Software Engineer | Flutter Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+I build scalable mobile and backend applications using modern architecture and clean engineering practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- Flutter cross-platform mobile development
+- FastAPI & Strapi backend engineering
+- PostgreSQL & Firebase
+- AI-integrated applications
+- API-driven architecture
+
+---
+
+## 🛠 Tech Stack
+
+### Mobile
+- Flutter
+- Dart
+
+### Backend
+- FastAPI
+- Strapi
+- REST APIs
+
+### Database
+- PostgreSQL
+- Firebase
+
+## Engineering Principles
+
+- Clean architecture
+- Scalable systems
+- Modular design
